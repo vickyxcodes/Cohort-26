@@ -6,7 +6,7 @@ This repository contains all projects built during Cohort-26.
 
 - 🔹 [HTML Practice Resume](https://github.com/vickyxcodes/html-practice-resume.git)
 - 🔹 [Mintlify Static Landing Page](https://github.com/vickyxcodes/mintlify-project.gi)
-- 🔹 [Cursor Landing Page](https://github.com/vickyxcodes/cursor-project.git)
+- 🔹 [Cursor Static Landing Page](https://github.com/vickyxcodes/cursor-project.git)
 
 ---
 
