@@ -1,2 +1,13 @@
-# Cohort-26
-All assignments &amp; projects of Cohort 2026.
+# 🚀 Cohort-26 Projects
+
+This repository contains all projects built during Cohort-26.
+
+## 📂 Projects
+
+- 🔹 [JavaScript Basics](https://github.com/vickyxcodes/html-practice-resume.git)
+- 🔹 [React App](https://github.com/vickyxcodes/mintlify-project.gi)
+- 🔹 [Node API](https://github.com/vickyxcodes/cursor-project.git)
+
+---
+
+Built with consistency and practice 💪
