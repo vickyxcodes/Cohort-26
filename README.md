@@ -12,7 +12,7 @@ This repository contains all projects built during Cohort-26.
 
 4. JavaScript Hands-on Labs
    - [Conditionals](https://github.com/chaicodehq/js-conditionals-vickyxcodes)
-   - Datatypes Foundation *(In Progress)*
+   - [Datatypes Foundation](https://github.com/chaicodehq/js-datatypes-foundation-vickyxcodes)
    - Datatypes Intermediate *(In Progress)*
    - Loops *(In Progress)*
    - Functions *(In Progress)*
