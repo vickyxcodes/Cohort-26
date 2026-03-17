@@ -16,6 +16,8 @@ This repository contains all projects built during Cohort-26.
    - Datatypes Intermediate *(In Progress)*
    - Loops *(In Progress)*
    - Functions *(In Progress)*
+  
+5. [DOM Projects](https://github.com/vickyxcodes/dom-projects)
 
 ---
 
