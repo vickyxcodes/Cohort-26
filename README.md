@@ -18,6 +18,11 @@ This repository contains all projects built during Cohort-26.
    - Functions *(In Progress)*
   
 5. [DOM Projects](https://github.com/vickyxcodes/dom-projects)
+   - Dark Mode Toggle *(In Progress)*
+   - Dynamic List Creator *(In Progress)*
+   - Color Palette Generator *(In Progress)*
+   - Api Data Fetching *(In Progress)*
+   - Image Gallery Switcher *(In Progress)*
 
 ---
 
