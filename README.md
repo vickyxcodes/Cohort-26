@@ -13,9 +13,11 @@ This repository contains all projects built during Cohort-26.
 4. JavaScript Hands-on Labs
    - [Conditionals](https://github.com/chaicodehq/js-conditionals-vickyxcodes)
    - [Datatypes Foundation](https://github.com/chaicodehq/js-datatypes-foundation-vickyxcodes)
-   - Datatypes Intermediate *(In Progress)*
-   - Loops *(In Progress)*
-   - Functions *(In Progress)*
+   - [Datatypes Intermediate](https://github.com/chaicodehq/js-datatypes-vickyxcodes) *(In Progress)*
+   - [Loops](https://github.com/chaicodehq/js-loops-vickyxcodes) *(In Progress)*
+   - [Functions](https://github.com/chaicodehq/js-functions-vickyxcodes) *(In Progress)*
+   - [Dom](https://github.com/chaicodehq/js-dom-vickyxcodes)
+   - [Async OOPs](https://github.com/chaicodehq/js-async-oops-vickyxcodes)
   
 5. [DOM Projects](https://github.com/vickyxcodes/dom-projects)
    - Dark Mode Toggle *(In Progress)*
