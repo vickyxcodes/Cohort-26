@@ -19,8 +19,8 @@ This repository contains all projects built during Cohort-26.
    - [Dom](https://github.com/chaicodehq/js-dom-vickyxcodes)
    - [Async OOPs](https://github.com/chaicodehq/js-async-oops-vickyxcodes)
   
-5. [DOM Projects](https://github.com/vickyxcodes/dom-projects)
-   - Dark Mode Toggle *(In Progress)*
+5. DOM Projects
+   - [Dark Mode Toggle] (https://github.com/vickyxcodes/dynamic-list-creator)
    - Dynamic List Creator *(In Progress)*
    - Color Palette Generator *(In Progress)*
    - Api Data Fetching *(In Progress)*
