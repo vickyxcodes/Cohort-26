@@ -25,6 +25,13 @@ This repository contains all projects built during Cohort-26.
    - Color Palette Generator *(In Progress)*
    - Api Data Fetching *(In Progress)*
    - Image Gallery Switcher *(In Progress)*
+  
+6. [Database Designs](https://github.com/vickyxcodes/db-design)
+   - Instagram Thrift Creator Store
+   - Fitness Influencer Coaching Platform
+   - *(In Progress)*
+   - *(In Progress)*
+   - *(In Progress)*
 
 ---
 
